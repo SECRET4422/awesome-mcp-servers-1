@@ -109,6 +109,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Decodo](https://github.com/Decodo/decodo-mcp-server)** - Easy web data access. Simplified retrieval of information from websites and online sources.
 - **[DevHub](https://github.com/devhub/devhub-cms-mcp)** - Manage and utilize website content within the [DevHub](https://www.devhub.com) CMS platform
 - **[DeepResearch](https://github.com/OctagonAI/octagon-deep-research-mcp)** - Lightning-Fast, High-Accuracy Deep Research Agent 👉 8–10x faster 👉 Greater depth & accuracy 👉 Unlimited parallel runs
+- **[Deep Research Server](https://github.com/SECRET4422/mcp-deep-research-server)** - Autonomous deep research MCP server featuring iterative web exploration, multi-engine search, cited synthesis, and persistent agent memories.
 - **[DeepWiki by Devin](https://docs.devin.ai/work-with-devin/deepwiki-mcp)** - Remote, no-auth MCP server providing AI-powered codebase context and answers
 - **[DexPaprika](https://github.com/coinpaprika/dexpaprika-mcp)** - Access real-time DEX analytics across 20+ blockchains with [DexPaprika API](https://docs.dexpaprika.com), tracking 5M+ tokens, pools, volumes, and historical market data. Built by CoinPaprika.
 - **[Digma](https://github.com/digma-ai/digma-mcp-server)** - A code observability MCP enabling dynamic code analysis based on OTEL/APM data to assist in code reviews, issues identification and fix, highlighting risky code etc.
@@ -147,6 +148,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Graphlit](https://github.com/graphlit/graphlit-mcp-server)** - Ingest anything from Slack to Gmail to podcast feeds, in addition to web crawling, into a searchable [Graphlit](https://www.graphlit.com) project.
 - **[GreptimeDB](https://github.com/GreptimeTeam/greptimedb-mcp-server)** - Provides AI assistants with a secure and structured way to explore and analyze data in [GreptimeDB](https://github.com/GreptimeTeam/greptimedb).
 - **[GrowthBook](https://github.com/growthbook/growthbook-mcp)** — Create and read feature flags, review experiments, generate flag types, search docs, and interact with GrowthBook's feature flagging and experimentation platform.
+- **[Guardrail MCP](https://github.com/SECRET4422/guardrail-mcp)** - Security analysis, zero-trust policy gateway, and runtime tool call compliance auditor for AI agents.
 - **[Harness](https://github.com/harness/mcp-server)** - Access and interact with Harness platform data, including pipelines, repositories, logs, and artifact registries.
 - **[Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp)** 📇 ☁️ 🏠 - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics. Hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
 - **[Hologres](https://github.com/aliyun/alibabacloud-hologres-mcp-server)** - Connect to a [Hologres](https://www.alibabacloud.com/en/product/hologres) instance, get table metadata, query and analyze data.
